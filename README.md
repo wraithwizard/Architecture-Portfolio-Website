@@ -15,7 +15,7 @@ A professional web site developed for an Architect, featuring a dynamic project 
 
 **Frontend**: HTML5, CSS3, JavaScript
 
-**Backend**: PHP
+**Backend**: PHP for email contact
 
 **Styling**: Custom CSS
 

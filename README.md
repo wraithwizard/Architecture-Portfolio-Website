@@ -21,3 +21,11 @@ A professional web site developed for an Architect, featuring a dynamic project 
 
 **Other**: Responsive design, Form validation, ThreeJS
 
+**Developer**
+Ari Christian Chavez
+
+💼 LinkedIn: https://www.linkedin.com/in/ari-christian-chavez-a21894120/
+
+📧 Email: accmnl@hotmail.com
+
+
